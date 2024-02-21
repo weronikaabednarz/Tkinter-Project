@@ -1,4 +1,4 @@
-# Calculator Application
+# Calculator Application 
 
 A window application that is a calculator:
 - performs simple calculations, 
